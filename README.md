@@ -7,7 +7,18 @@ Slice! Slice! Game é um repositório para um clone de um hyper casual game cham
 <h3>English Version:</h3> 
 Slice! Slice! Game is a repository for a clone hyper casual game called Slice It All, every code were create by me Romulo José and can be used at will.
 
-
+<h3>Prints</h3>
+<div >
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/1.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/2.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/3.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/4.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/5.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/6.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/7.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/8.png" width=250px height=450px>
+  <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/9.png" width=250px height=450px>
+</div>
 
 <h3>Used Assets:</h3>
 https://assetstore.unity.com/packages/2d/gui/icons/game-gui-buttons-96277 GUI Elements </br>
