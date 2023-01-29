@@ -5,7 +5,7 @@
 Slice! Slice! Game é um repositório para um clone de um hyper casual game chamado Slice It All, todos os códigos aqui são criados por mim Romulo José e podem ser utilizados a vontade.
 
 <h3>English Version:</h3> 
-Slice! Slice! Game is a repository for a clone hyper casual game called Slice It All, every code were create by me Romulo José and can be used at will.
+Slice! Slice! Game is a repository for a clone hyper casual game called Slice It All, every code were create by me Romulo José and can be used.
 
 <h3>Prints</h3>
 <div >
