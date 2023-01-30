@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e8b98a62bbd3c4bbc2de7249f3bd27, type: 3}
+  m_Name: Tucunare
+  m_EditorClassIdentifier: 
+  WeaponName: Tucunare
+  WeaponIndex: 6
+  WeaponPrefab: {fileID: 8512672620358903246, guid: 3afc05b8524d17648a633aaf72f60289, type: 3}
+  WeaponIcon: {fileID: 21300000, guid: bd66f18257ef11c42afe35f85fca13be, type: 3}
+  WeaponValue: 600

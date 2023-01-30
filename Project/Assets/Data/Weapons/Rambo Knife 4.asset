@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e8b98a62bbd3c4bbc2de7249f3bd27, type: 3}
+  m_Name: Rambo Knife 4
+  m_EditorClassIdentifier: 
+  WeaponName: Rambo Knife
+  WeaponIndex: 3
+  WeaponPrefab: {fileID: 460295784967747218, guid: b318bfe8168b8024685da27a752b2b77, type: 3}
+  WeaponIcon: {fileID: 21300000, guid: d86262af8e285bd43878c8e1bc534e59, type: 3}
+  WeaponValue: 300
