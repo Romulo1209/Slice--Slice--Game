@@ -20,6 +20,9 @@ Slice! Slice! Game is a repository for a clone hyper casual game called Slice It
   <img src="https://github.com/Romulo1209/Slice--Slice--Game/blob/main/Prints/9.png" width=250px height=450px>
 </div>
 
+<h3>Apk link</h3>
+https://drive.google.com/file/d/12CtzJipQoVf95FQ8ROZJhRut4QrzzLr7/view?usp=sharing
+
 <h3>Used Assets:</h3>
 https://assetstore.unity.com/packages/2d/gui/icons/game-gui-buttons-96277 GUI Elements </br>
 https://assetstore.unity.com/packages/3d/props/weapons/small-set-of-daggers-185369 Knifes </br>
